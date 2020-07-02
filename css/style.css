@@ -1,0 +1,14 @@
+:root {
+  --primary-text-color: rgba(0, 0, 0, 0.8);
+  --title-text-color: #000000;
+  --accent-color: #18a0fb;
+  --primary-white-color: #ffffff;
+}
+/* главная */
+/* portfolio */
+.portfolio-filter-button:hover {
+  color: var(--accent-color);
+}
+.portfolio-filter-button:focus {
+  color: var(--accent-color);
+}

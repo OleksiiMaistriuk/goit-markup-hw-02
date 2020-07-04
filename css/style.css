@@ -1,14 +1,9 @@
 :root {
-  --primary-text-color: rgba(0, 0, 0, 0.8);
-  --title-text-color: #000000;
-  --accent-color: #18a0fb;
-  --primary-white-color: #ffffff;
-}
-/* главная */
-/* portfolio */
-.portfolio-filter-button:hover {
-  color: var(--accent-color);
-}
-.portfolio-filter-button:focus {
-  color: var(--accent-color);
+  --main-font: 'Roboto', sans-serif;
+  --logo-font: 'Raleway', sans-serif;
+  --text-dark-theme-color: #ffffff;
+  --text-white-theme-color: #757575;
+  --title-text-color: #212121;
+  --accent-color: #2196f3;
+  --address-dark-theme-color: rgba(255, 255, 255, 0.6);
 }

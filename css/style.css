@@ -158,9 +158,6 @@ body {
 /* ---------------------------------------- */
 /* portfolio */
 /* ---------------------------------------- */
-.portfolio-filter-button {
-  background-color: var(--button-background-color);
-}
 .portfolio-filter-button:hover,
 .portfolio-filter-button:focus {
   color: var(--text-dark-theme-color);
